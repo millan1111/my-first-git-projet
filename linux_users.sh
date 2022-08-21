@@ -4,6 +4,8 @@ if [ $(id -u) -eq 0 ]; then
 	read -p "Enter username : " username
 <<<<<<< HEAD
 	read -s -p "Enter password : " password1
+
+	read -s -p "Enter group : " mechant
 =======
 	read -s -p "Enter password : " password1
 >>>>>>> password_linux
